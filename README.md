@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nwachukwu Francis</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria.</h3>
 
-- 🔭 I’m currently working on **Taktik, a tiktok clone**
+- 🔭 I’m currently working on **Travelgood, an online booking platform for hotels and Openblock, an NFT marketplace mobile application**
 
-- 🌱 I’m currently learning **JavaScript (forever), TypeScript, Node.js, AWS**
+- 🌱 I’m currently learning **React Native, JavaScript (forever), TypeScript, Node.js, AWS**
 
 - 👨‍💻 All of my projects are available at [https://devfrancis.netlify.app](https://devfrancis.netlify.app)
 
