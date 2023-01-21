@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nwachukwu Francis</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria.</h3>
 
-- 🔭 I’m currently working on **Travelgood, an online booking platform for hotels and Openblock, an NFT marketplace mobile application**
+- 🔭 I’m currently working on **Travelwella, an online tourist platform for hotels and Openblock, an NFT marketplace mobile application**
 
 - 🌱 I’m currently learning **React Native, JavaScript (forever), TypeScript, Node.js, AWS**
 
