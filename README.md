@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nwachukwu Francis</h1>
-<h3 align="center">A passionate full-stack developer from Nigeria.</h3>
+<h3 align="center">A passionate full-stack web and mobile developer from Nigeria.</h3>
 
 - 🔭 I’m currently working on **Travelwella, an online tourist platform for hotels and Openblock, an NFT marketplace mobile application**
 
