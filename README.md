@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nwachukwu Francis</h1>
-<h3 align="center">A passionate full-stack web and mobile developer from Nigeria.</h3>
+<h3 align="center">A passionate full-stack web, mobile and devOps engineer from Nigeria.</h3>
 
-- 🔭 I’m currently working on **Travelwella, an online tourist platform for hotels and Openblock, an NFT marketplace mobile application**
+- 🔭 I’m currently working on **creating build triggers for various applications through Jenkins & AWS.**
 
-- 🌱 I’m currently learning **React Native, JavaScript (forever), TypeScript, Node.js, AWS**
+- 🌱 I’m currently learning **Jenkins, Docker, Kubernetes, React Native, AWS**
 
 - 👨‍💻 All of my projects are available at [https://devfrancis.netlify.app](https://devfrancis.netlify.app)
 
-- 💬 Ask me about **React, HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Next.js, Node.js, Firebase, Material UI, Rapid API**
+- 💬 Ask me about **React, HTML, CSS, Tailwind CSS, JavaScript, Linux, Next.js, Node.js, Firebase, Node.js**
 
 - 📫 How to reach me **francisnwachukwu100@gmail.com**
 
-- ⚡ Fun fact **I’m super interested in football. I’m pretty short and handsome lol**
+- ⚡ Fun fact **I’m super interested in football. I love taking on new challenges. I’m pretty short and handsome lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
