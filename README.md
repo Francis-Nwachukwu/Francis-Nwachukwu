@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nwachukwu Francis</h1>
 <h3 align="center">A passionate full-stack web, mobile and devOps engineer from Nigeria.</h3>
 
-- 🔭 I’m currently working on **creating build triggers for various applications through Jenkins & AWS.**
+- 🔭 I’m currently working on **creating pipelines and build triggers for various applications through Jenkins & AWS.**
 
 - 🌱 I’m currently learning **Jenkins, Docker, Kubernetes, React Native, AWS**
 
