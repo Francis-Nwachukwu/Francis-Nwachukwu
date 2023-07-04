@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **francisnwachukwu100@gmail.com**
 
-- ⚡ Fun fact **I’m super interested in football. I love taking on new challenges. I’m pretty short and handsome lol**
+- ⚡ Fun fact **I’m super interested in football. I love taking on new challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
