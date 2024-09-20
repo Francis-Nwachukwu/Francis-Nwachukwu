@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nwachukwu Francis</h1>
-<h3 align="center">A passionate full-stack web, mobile and devOps engineer from Nigeria.</h3>
+<h3 align="center">A passionate full-stack and devOps engineer from Nigeria.</h3>
 
 - 🔭 I’m currently working on **creating pipelines and build triggers for various applications through Jenkins & AWS.**
 
 - 🌱 I’m currently learning **Jenkins, Docker, Kubernetes, React Native, AWS**
 
-- 👨‍💻 All of my projects are available at [https://devfrancis.netlify.app](https://devfrancis.netlify.app)
+- 👨‍💻 All of my projects are available at [https://francisnwachukwu.dev](https://francisnwachukwu.dev)
 
 - 💬 Ask me about **React, HTML, CSS, Tailwind CSS, JavaScript, Linux, Next.js, Node.js, Firebase, Node.js**
 
